@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fake_Call_Log</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textview">TextView</string>
+    <string name="Camera">Camera</string>
+    <string name="Log">Logs</string>
+    <string name="map">Maps</string>
+    <string name="Dashboard">Choose an Option</string>
+    <array name="call_type">
+        <item>Choose Call Type</item>
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed Call</item>
+        <item>Reject Call</item>
+    </array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

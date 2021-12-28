@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706601382086",
+    "firebase_url": "https://fake-call-log-6956e-default-rtdb.firebaseio.com",
+    "project_id": "fake-call-log-6956e",
+    "storage_bucket": "fake-call-log-6956e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706601382086:android:04f307b346415d1a6b67c7",
+        "android_client_info": {
+          "package_name": "com.example.fake_call_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706601382086-t8dhkb1ikjnk4o9kms60td8394v3cu1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3pUzaUeC-sSWwf_7cqgaZibrerDtE5Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706601382086-t8dhkb1ikjnk4o9kms60td8394v3cu1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
